@@ -20,6 +20,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, weak) UIViewController *currentVC;
 /// 页面presentDirection效果
 @property (nonatomic, assign) UPresentationDirection presentDirectionType;
+/// 授权页窗口是否需要动画弹出，默认YES
+@property (nonatomic, assign) BOOL presentAnimated;
 /// 授权页窗口模式弹出样式
 @property (nonatomic, assign) UAuthWindowPopStyle authWindowPopStyle;
 /// 授权页窗口模式推出动画，默认UIModalTransitionStyleCrossDissolve
@@ -57,7 +59,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) UIFont *phoneNumberFont;
 
 #pragma mark - 运营商认证描述
-
+/// 运营商认证描述文本（默认：XXX运营商提供认证服务）
+@property (nonatomic, copy) NSString *carrierAuthDescText;
 /// 运营商认证描述X轴偏移量，默认0居中显示
 @property (nonatomic, assign) CGFloat carrierAuthDescOffsetX;
 /// 运营商认证描述Y轴偏移量，fullScreen默认210.0，窗口模式默认110.0（距离屏幕顶部）
@@ -119,7 +122,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// 说明：全句可自定义，但必须保留《默认》标识SDK默认协议，否则不生效
 /// 举个栗子👇🏻：
 /// privacyText的内容：请阅读并同意《默认》百度协议&1腾讯协议&2并授权App获取本机号码
-/// 最终展示：请阅读并同意中国移动协议百度协议1腾讯协议2并授权App获取本机号码
+/// 最终展示：请阅读并同意中国移动协议百度协议腾讯协议并授权App获取本机号码
 @property (nonatomic, copy) NSString *privacyText;
 /// 隐私协议字体，默认系统字体13号
 @property (nonatomic, strong) UIFont *privacyFont;
@@ -149,6 +152,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) void(^privacyPageCustomBlock)(NSURL *url);
 /// 隐私协议界面，返回按钮图标
 @property (nonatomic, strong) UIImage *privacyBackButtonImg;
+
+#pragma mark - 多语言
+
+@property (nonatomic, assign) ULanguageType languageType;
 
 @end
 
