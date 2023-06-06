@@ -4,101 +4,101 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/UAuthViewConfig.h</key>
+		<key>Headers/TYRZUISDK.h</key>
 		<data>
-		SzaFIAMa5YG6YvyvNyi/FpIPGe8=
+		rm4pzqrAN7QopXwBkJyIZBM6qc4=
 		</data>
-		<key>Headers/UCustomPrivacy.h</key>
+		<key>Headers/UAFCustomModel.h</key>
 		<data>
-		sEflqAMsjOI9Ar3gXGp9Z+zFf/4=
+		ltlTovNVVmwv5n5V6NB5hTWr1ww=
 		</data>
-		<key>Headers/UEnums.h</key>
+		<key>Headers/UAFEnums.h</key>
 		<data>
-		yzRI3KZt7BAgbQM2EiQtrqFnQW4=
+		IFUODURH70sJmORs3hxrEN5kjZk=
 		</data>
-		<key>Headers/UnvsManager.h</key>
+		<key>Headers/UAFSDKErrorCode.h</key>
 		<data>
-		Nb31Fc8Au6p/Qa4ZUTjqq+mZ/oE=
+		bSlWtEfsUoYEz1Fx9GXWJb+6mGc=
 		</data>
-		<key>Headers/UnvsSDK.h</key>
+		<key>Headers/UAFSDKLogin.h</key>
 		<data>
-		8PgEEJ7+vzFbn/5R1dV2s9OHgjM=
+		uQRuHikW9xF6ZhgUqhwITKvFqUg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6kDf9p5DizsgctxMuxsa4EMP5ZA=
+		ZQ6Ieb3qM457PsxylNL1M0gTHmc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		a6KPmd3IerlkTOIOIK8KZlNppTk=
+		GNnsZxqWEwCt9/IWFk1lW/T7O64=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/UAuthViewConfig.h</key>
+		<key>Headers/TYRZUISDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SzaFIAMa5YG6YvyvNyi/FpIPGe8=
+			rm4pzqrAN7QopXwBkJyIZBM6qc4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8qXy6ToFHgN/LabEJToLCo2PwUExPTQI4U2XnAfBo8s=
+			Vdpcs7XowPTcaDLnhiRt7O8SBTdw1h7uAF8KKRvui08=
 			</data>
 		</dict>
-		<key>Headers/UCustomPrivacy.h</key>
+		<key>Headers/UAFCustomModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sEflqAMsjOI9Ar3gXGp9Z+zFf/4=
+			ltlTovNVVmwv5n5V6NB5hTWr1ww=
 			</data>
 			<key>hash2</key>
 			<data>
-			xIFeouu4r7iY8B4LLVnupGPxpqPGWS0FXbUmD0SvnN0=
+			7xD6LqdnACMlTnemRqtJc5oEIr3Oz3UPjNjGhC6Pqr0=
 			</data>
 		</dict>
-		<key>Headers/UEnums.h</key>
+		<key>Headers/UAFEnums.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yzRI3KZt7BAgbQM2EiQtrqFnQW4=
+			IFUODURH70sJmORs3hxrEN5kjZk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eHUaO8afToYCB4S28ZGbx0J8E73KP/7+xuGmAxEm84w=
+			WmqVyWgoQeXt4LR9UBPRWd2XvuqyUFApL0qwdm7THOQ=
 			</data>
 		</dict>
-		<key>Headers/UnvsManager.h</key>
+		<key>Headers/UAFSDKErrorCode.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nb31Fc8Au6p/Qa4ZUTjqq+mZ/oE=
+			bSlWtEfsUoYEz1Fx9GXWJb+6mGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			SnJilsytt1o3DAn3Njjr5eHaYXTe6ZRNudthrhAzv8w=
+			z5UaTb0JepUlijytD9izVtY1zT8EpMIF6iShu5gv0xI=
 			</data>
 		</dict>
-		<key>Headers/UnvsSDK.h</key>
+		<key>Headers/UAFSDKLogin.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8PgEEJ7+vzFbn/5R1dV2s9OHgjM=
+			uQRuHikW9xF6ZhgUqhwITKvFqUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			V3k2QKFqjeo1n9ys7cDoWxL6j89XXHKeVwZRHD3sDLA=
+			OPZa2Jcn7teFT1e6X1qtrdoszS1hW+lxlxGRjHsUio8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a6KPmd3IerlkTOIOIK8KZlNppTk=
+			GNnsZxqWEwCt9/IWFk1lW/T7O64=
 			</data>
 			<key>hash2</key>
 			<data>
-			YEGsATM51oBA73WW4hDQqAJgES/lEMlFXZxZPT8IgNw=
+			fikYnY3vrMc0jap1ZPWIbjknLnZOIijIGgYtfLgGdqI=
 			</data>
 		</dict>
 	</dict>

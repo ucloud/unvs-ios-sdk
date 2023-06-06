@@ -48,4 +48,13 @@ typedef NS_ENUM(NSInteger, UAuthWindowPopStyle) {
     UAuthWindowPopStyleBottom
 };
 
+typedef NS_ENUM(NSInteger, ULanguageType) {
+    /// 简体中文
+    ULanguageTypeSimplifiedChinese,
+    /// 繁体中文
+    ULanguageTypeTraditionalChinese,
+    /// 英文
+    ULanguageTypeEnglish
+};
+
 #endif /* UEnums_h */
