@@ -32,38 +32,6 @@
 		<data>
 		a6KPmd3IerlkTOIOIK8KZlNppTk=
 		</data>
-		<key>TYRZUISDK.framework/Headers/TYRZUISDK.h</key>
-		<data>
-		rm4pzqrAN7QopXwBkJyIZBM6qc4=
-		</data>
-		<key>TYRZUISDK.framework/Headers/UAFCustomModel.h</key>
-		<data>
-		JFras2TKPc+Rjlojet5q8LBqcqs=
-		</data>
-		<key>TYRZUISDK.framework/Headers/UAFEnums.h</key>
-		<data>
-		IFUODURH70sJmORs3hxrEN5kjZk=
-		</data>
-		<key>TYRZUISDK.framework/Headers/UAFSDKErrorCode.h</key>
-		<data>
-		8E2t1Y6tSL16K/Ce+GVMD5vqKHo=
-		</data>
-		<key>TYRZUISDK.framework/Headers/UAFSDKLogin.h</key>
-		<data>
-		JRkLTU7v9UWrnnwsvXXA3PPJCVw=
-		</data>
-		<key>TYRZUISDK.framework/Info.plist</key>
-		<data>
-		WLl6uuJbILLmbbqB6SjHhZg9hNQ=
-		</data>
-		<key>TYRZUISDK.framework/Modules/module.modulemap</key>
-		<data>
-		GNnsZxqWEwCt9/IWFk1lW/T7O64=
-		</data>
-		<key>TYRZUISDK.framework/TYRZUISDK</key>
-		<data>
-		EqqIj4F11yt0hSCmTVsjpI5AXM0=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -107,62 +75,6 @@
 			<key>hash2</key>
 			<data>
 			YEGsATM51oBA73WW4hDQqAJgES/lEMlFXZxZPT8IgNw=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Headers/TYRZUISDK.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Vdpcs7XowPTcaDLnhiRt7O8SBTdw1h7uAF8KKRvui08=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Headers/UAFCustomModel.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nizrvJxKr43CNO6BFKY9EDLduNkKEtSgXW+rYDQIRS4=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Headers/UAFEnums.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WmqVyWgoQeXt4LR9UBPRWd2XvuqyUFApL0qwdm7THOQ=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Headers/UAFSDKErrorCode.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qUoYtqecD8qetcqT8+JVe0+Tw81C+fpSwP5Rf/oYcx4=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Headers/UAFSDKLogin.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			n7i+P/7Pdj1GSAdWQuKohCy0PNKBwo0zzCje04HD+iI=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jrzZnlnuKcq/fvZCmWodw6YbJv9EdeAhE4zpgQAby4A=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fikYnY3vrMc0jap1ZPWIbjknLnZOIijIGgYtfLgGdqI=
-			</data>
-		</dict>
-		<key>TYRZUISDK.framework/TYRZUISDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			21Dwht6Nsb+HlQ3+CKOIHzENI4HFNSj/z9lDZAfnl68=
 			</data>
 		</dict>
 	</dict>
